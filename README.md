@@ -3,7 +3,8 @@
 La aplicación **Art Space** permite a los usuarios visualizar diversas imágenes de obras icónicas junto con sus descripciones. Los usuarios pueden navegar entre las imágenes utilizando los botones **"Anterior"** y **"Siguiente"**, además de contar con la opción de cerrar la aplicación.
 
 ![](Aspose.Words.61da1fca-b7e1-48e1-9f57-d8e9ddc2a9e6.001.png)
-##
+##![Aspose Words 2f26bc27-d001-4cba-9eed-676758c88830 001](https://github.com/user-attachments/assets/264608f2-70e8-43dc-8f9d-d3c2b7bf5db2)
+
 ##
 ## <a name="_tonff1l2kzn6"></a><a name="_brqn4997o259"></a><a name="_cmbgxle4t4n"></a>**Descripción del Código**
 La aplicación está construida en **Jetpack Compose**, utilizando un diseño basado en una columna con elementos de UI bien estructurados.
