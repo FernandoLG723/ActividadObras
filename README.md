@@ -94,3 +94,7 @@ Estas pruebas validan la navegación cíclica entre las imágenes.
 
 ## <a name="_zbg612t5l71t"></a>**Conclusión**
 La aplicación **Art Space** ofrece una experiencia sencilla pero efectiva para visualizar imágenes de obras icónicas. A través de pruebas de UI y unitarias, se ha asegurado su correcto funcionamiento, cumpliendo con los requisitos esperados.
+
+## <a name="_3obnjdydgyp6"></a>**Futuras versiones**
+
+Para futuras versiones se planea que se puedan subir imágenes o borrarlas, también que se puedan compartir dichas imagenes.
