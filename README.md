@@ -86,7 +86,8 @@ Las pruebas de UI se implementan utilizando composeTestRule y verifican que los 
 ###
 ###
 ### <a name="_4v85r56266xn"></a><a name="_2r6dtwzf25da"></a><a name="_5q1v1686k2z6"></a><a name="_a0j3k4ggwkgo"></a><a name="_2o5kfmh0hopn"></a><a name="_dvlspenqbc1u"></a><a name="_ybcdrbk6uhuf"></a><a name="_jn30c4kdnatf"></a><a name="_cf16mxy0jk04"></a><a name="_pizgygzhb6ez"></a><a name="_ts6rymrdwmig"></a><a name="_6olkfw3j78ib"></a><a name="_26extl1byqvw"></a><a name="_5hnnwe1h1u3x"></a><a name="_60ksk92zyo4o"></a><a name="_cvm1ryaeh683"></a><a name="_s068oz625wzz"></a>**Pruebas Unitarias**
-Se han desarrollado pruebas unitarias para garantizar el comportamiento esperado de la lógica de cambio de imágenes.![](Aspose.Words.61da1fca-b7e1-48e1-9f57-d8e9ddc2a9e6.008.png)
+Se han desarrollado pruebas unitarias para garantizar el comportamiento esperado de la lógica de cambio de imágenes.
+![](Aspose.Words.61da1fca-b7e1-48e1-9f57-d8e9ddc2a9e6.008.png)
 ![Aspose Words 2f26bc27-d001-4cba-9eed-676758c88830 008](https://github.com/user-attachments/assets/cb48447a-76fa-44f2-9b3a-399365640e1c)
 
 
